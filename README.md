@@ -1,1 +1,1 @@
-# HousePrice-predivtion-NN-project
+# HousePrice-prediction-NN-project
